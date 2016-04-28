@@ -23,5 +23,6 @@ echo "$randclaim";
 Find **line 15**: ``for($i=0; $i<50; $i++) {`` and change ``50`` to the number of filenames you want pulled.
 
 ##Notes
-*The more filenames you have it pull, the longer the query will take to process.
-*The more cards you have loading on one page, the longer players will be waiting - and the more likely chance the page will time out, they will be blocked from the server (depending on the settings), or their experience with the site will quickly turn sour, and...well...who would want that?
+
+* The more filenames you have it pull, the longer the query will take to process.
+* The more cards you have loading on one page, the longer players will be waiting - and the more likely chance the page will time out, they will be blocked from the server (depending on the settings), or their experience with the site will quickly turn sour, and...well...who would want that?
